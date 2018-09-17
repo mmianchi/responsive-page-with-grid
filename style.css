@@ -127,3 +127,12 @@ img {
   text-align: center;
   box-shadow: var(--shadow);
 }
+
+.info {
+  background: var(--primary);
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(2, 1fr);
+  box-shadow: var(--shadow);
+  padding: 3rem;
+  }
