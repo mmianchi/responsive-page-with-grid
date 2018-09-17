@@ -1,6 +1,6 @@
 
-## a responsive Page using CSS Grid
-### used modern CSS features and techniques like css variables, rem units, Grid and flexbox.
+## A responsive Page using CSS Grid
+### Used modern CSS features and techniques like css variables, rem units, Grid and flexbox.
 
 ![screen shot 2018-09-17 at 12 01 50 am](https://user-images.githubusercontent.com/29652821/45609662-b3e0de80-ba0d-11e8-9bf2-3523c4b7056b.png)
 
