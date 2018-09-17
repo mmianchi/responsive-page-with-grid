@@ -154,3 +154,25 @@ img {
     padding:1.3rem;
     text-align: center;
   }
+
+
+  /* Media Queries */
+  @media(max-width:700px){
+    .main-nav ul, .info {
+      grid-template-columns: 1fr;
+    }
+    .top-container {
+      grid-template-areas: 
+      'showcase showcase' 
+      'top-box-a top-box-b';
+    }
+
+    .showcase h1 {
+      font-size: 2.5rem;
+    }
+    .info .btn {
+      display: block;
+      text-align: center;
+      margin: auto;
+    }
+  }
